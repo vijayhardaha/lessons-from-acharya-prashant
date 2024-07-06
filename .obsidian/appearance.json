@@ -1,0 +1,13 @@
+{
+  "textFontFamily": "Lexend",
+  "interfaceFontFamily": "Lexend",
+  "monospaceFontFamily": "Test Söhne Mono",
+  "cssTheme": "Border",
+  "accentColor": "",
+  "translucency": false,
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "heading-line-height"
+  ]
+}

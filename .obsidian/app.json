@@ -1,0 +1,13 @@
+{
+  "showLineNumber": false,
+  "promptDelete": false,
+  "spellcheck": false,
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

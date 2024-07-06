@@ -1,0 +1,23 @@
+{
+  "Editor@@h1-divider-on": true,
+  "Editor@@border-focus-mode": false,
+  "Components@@tab-autohide": false,
+  "Components@@status-bar-autohide": false,
+  "Components@@Ribbon-autohide": false,
+  "Components@@tab-title-bar-autohide": false,
+  "Components@@CTA-BTN-enable": true,
+  "Components@@file-names-untrim": false,
+  "Components@@folder-font-bold": true,
+  "Components@@colorful-folder": true,
+  "Components@@file-icon-remove": false,
+  "Components@@outline-enhanced": false,
+  "Editor@@h1-size": "2.25em",
+  "Editor@@h2-size": "1.875em",
+  "Editor@@h3-size": "1.5em",
+  "Editor@@h4-size": "1.25em",
+  "Editor@@h5-size": "1.125em",
+  "Editor@@h6-size": "1em",
+  "Editor@@heading-indicator-off": true,
+  "Editor@@h2-divider-on": true,
+  "Editor@@h3-divider-on": false
+}

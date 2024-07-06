@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "930326c47c4196aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ac070be62c9ea7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1db9807aa119bb12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Activities/06-July-2024-Activity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddef76ff78dafd0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a1fc26507c99c76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b428c85829fee97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bad38fd375380678",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcfd5ab19c159496",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "4c3df409a18d787f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd48781557fcab5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aec95d32d8156f28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Activities/06-July-2024-Activity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ac4b45fc4759492",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Activities/06-July-2024-Activity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4aafb46f72a48744",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e71a07e047019e24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Activities/06-July-2024-Activity.md"
+              }
+            }
+          },
+          {
+            "id": "b264c4b286de1d60",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ca8224b83fd8c5b",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1db9807aa119bb12",
+  "lastOpenFiles": [
+    "Pasted image 20240706134855.png",
+    "README.md",
+    "Activities/06-July-2024-Activity.md",
+    "Activities",
+    "Untitled.canvas",
+    "create a link.md",
+    "Untitled.md"
+  ]
+}
