@@ -15,7 +15,23 @@
 
 और सर्वसामान्य की दृष्टि कहेगी कि आचार्य प्रशांत ==प्रकृति और पशुओं की रक्षा हेतु करुण, युवाओं में प्रकाश तथा ऊर्जा के संचारक==, तथा प्रत्येक ==जीव की भौतिक स्वतंत्रता तथा आत्यंतिक मुक्ति== के लिए संघर्षरत एक ज़मीनी संघर्षकर्ता हैं।
 
-[Official Website](https://acharyaprashant.org/en/gita) - [YouTube Channel](https://www.youtube.com/c/ShriPrashant) - [WhatsApp Channel](https://www.whatsapp.com/channel/0029Va6ZwaQ9MF96RcTwyU34) - [Instagram Handle](https://www.instagram.com/acharya_prashant_ap/) - [Android App](https://play.google.com/store/apps/details?id=org.acharyaprashant.apbooks) - [Hiring](https://acharyaprashant.org/en/hiring?cmId=m00075) - [Contribute](https://acharyaprashant.org/hi/contribute/contribute-work?cmId=m00075)
+#### Important Links
+
+- 🌐 [Official Website][official-website]
+- 📺 [YouTube Channel][youtube-channel]
+- 💬 [WhatsApp Channel][whatsapp-channel]
+- 📸 [Instagram Page][instagram]
+- 📱 [Acharya Prashant App][android-app]
+- 💼 [PAF Hiring][hiring]
+- 💰 [PAF Contribute][contribute]
+
+[official-website]: https://bit.ly/4cSfYVL
+[youtube-channel]: https://bit.ly/3LdXfbl
+[whatsapp-channel]: https://bit.ly/4cVtEPX
+[instagram]: https://bit.ly/4cukVV6
+[android-app]: https://bit.ly/4cru4xw
+[hiring]: https://bit.ly/3VYzWHF
+[contribute]: https://bit.ly/3RYgQ3e
 
 ## लाइसेंस (Lincese)
 
