@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9ac070be62c9ea7e",
+        "id": "8ed73e19266c8a7a",
         "type": "tabs",
         "children": [
           {
-            "id": "1db9807aa119bb12",
+            "id": "63a0beb30df153e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Activities/06-July-2024-Activity.md",
+                "file": "Activities/Activity — 08 July, 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8efd262612d432a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vendant Samhita/Ashtavakra Geeta — 12 June, 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 308.5
   },
   "right": {
     "id": "4c3df409a18d787f",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Activities/06-July-2024-Activity.md",
+                "file": "Vendant Samhita/Ashtavakra Geeta — 12 June, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Activities/06-July-2024-Activity.md",
+                "file": "Vendant Samhita/Ashtavakra Geeta — 12 June, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Activities/06-July-2024-Activity.md"
+                "file": "Vendant Samhita/Ashtavakra Geeta — 12 June, 2024.md"
               }
             }
           },
@@ -166,14 +179,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1db9807aa119bb12",
+  "active": "8efd262612d432a5",
   "lastOpenFiles": [
-    "Pasted image 20240706134855.png",
+    "Activities/Activity — 06 July, 2024.md",
+    "Vendant Samhita/Ashtavakra Geeta — 12 June, 2024.md",
+    "Activities/Activity — 08 July, 2024.md",
+    "Vendant Samhita",
+    "Activities/Assets/traffic-jam-activity.png",
+    "Activities/Assets/pele-edson-arantes-do-nascimento-cover.png",
     "README.md",
-    "Activities/06-July-2024-Activity.md",
+    "README copy.md",
+    "Activities/Assets",
     "Activities",
     "Untitled.canvas",
-    "create a link.md",
-    "Untitled.md"
+    "create a link.md"
   ]
 }
