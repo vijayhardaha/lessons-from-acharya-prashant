@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vendant Samhita/Ashtavakra Geeta — 12 June, 2024.md",
-                "mode": "source",
+                "file": "Vedant Samhita/Ashtavakra Geeta — 12 June, 2024.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 292.5
   },
   "right": {
     "id": "4c3df409a18d787f",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vendant Samhita/Ashtavakra Geeta — 12 June, 2024.md",
+                "file": "Vedant Samhita/Ashtavakra Geeta — 12 June, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vendant Samhita/Ashtavakra Geeta — 12 June, 2024.md",
+                "file": "Vedant Samhita/Ashtavakra Geeta — 12 June, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vendant Samhita/Ashtavakra Geeta — 12 June, 2024.md"
+                "file": "Vedant Samhita/Ashtavakra Geeta — 12 June, 2024.md"
               }
             }
           },
@@ -182,9 +182,9 @@
   "active": "8efd262612d432a5",
   "lastOpenFiles": [
     "Activities/Activity — 06 July, 2024.md",
-    "Vendant Samhita/Ashtavakra Geeta — 12 June, 2024.md",
+    "Vedant Samhita/Ashtavakra Geeta — 12 June, 2024.md",
     "Activities/Activity — 08 July, 2024.md",
-    "Vendant Samhita",
+    "Vedant Samhita",
     "Activities/Assets/traffic-jam-activity.png",
     "Activities/Assets/pele-edson-arantes-do-nascimento-cover.png",
     "README.md",

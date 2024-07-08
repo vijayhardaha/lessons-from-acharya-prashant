@@ -214,14 +214,14 @@
       "enabled": false
     },
     "remove-space-around-characters": {
-      "enabled": false,
+      "enabled": true,
       "include-fullwidth-forms": true,
       "include-cjk-symbols-and-punctuation": true,
       "include-dashes": true,
       "other-symbols": ""
     },
     "remove-space-before-or-after-characters": {
-      "enabled": false,
+      "enabled": true,
       "characters-to-remove-space-before": ",!?;:).’”]",
       "characters-to-remove-space-after": "¿¡‘“(["
     },
@@ -234,8 +234,8 @@
       "english-symbols-punctuation-after": "-+'\"([¥$"
     },
     "trailing-spaces": {
-      "enabled": false,
-      "twp-space-line-break": false
+      "enabled": true,
+      "twp-space-line-break": true
     },
     "add-blockquote-indentation-on-paste": {
       "enabled": false
@@ -253,7 +253,7 @@
       "enabled": false
     },
     "remove-leading-or-trailing-whitespace-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "remove-leftover-footnotes-from-quote-on-paste": {
       "enabled": false
